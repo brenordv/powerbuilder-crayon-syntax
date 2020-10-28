@@ -1,0 +1,10 @@
+goto
+label
+if
+choose
+loop
+while
+then
+else
+elseif
+end
